@@ -1,5 +1,5 @@
 # Restaurant-Inspection-Analysis
-##Introduction
+## Introduction
 The project was an analysis of San Fransisco Restaurant inspection Data using Python code and Plotly Dash to diplay the dashboard. 
 The inspiration behind the project was from my favorite restaurants on Yelp. When I found the Health Department developed an inspection 
 report and scoring system on restaurants, I was curious to see what lied within the data. These inspections were unscheduled. After an 
