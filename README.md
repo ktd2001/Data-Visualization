@@ -8,10 +8,15 @@ The inspiration behind the project was from my favorite restaurants on Yelp. Wit
 **Results:**
 The analysis revealed restaurants with a high risk category could also score high for their inspection score. I thought this to be very interesting. The public should be aware of the risk caegory, not just the inspection score. A high risk category restaurant is a deciding facting if I will eat someone.   
 
-**Image:**
+**Image of application:**
+
 <img src="Restaurant.png" width="400">
 
+**Application link:**
+http://192.81.212.201:1872/
+
 **Video:**
+
 <video poster="Restaurant Inspection Analysis Plotly Dash.jpg" width="618" height="347" controls preload></video>
 
     <source src="RestaurantInspectionAnalysisPlotlyDash.mp4" media="only screen and (min-device-width: 568px)"></source> 
