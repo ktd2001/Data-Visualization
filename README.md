@@ -17,11 +17,8 @@ http://192.81.212.201:1872/
 
 #**Video:**
 
-#<video poster="Restaurant Inspection Analysis Plotly Dash.jpg" width="618" height="347" controls preload></video>
+#<video poster="RestaurantInspectionAnalysisPlotlyDash.jpg" width="618" height="347" controls preload></video>
 
-    <source src="RestaurantInspectionAnalysisPlotlyDash.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="RestaurantInspectionAnalysisPlotlyDash.iphone.mp4" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="RestaurantInspectionAnalysisPlotlyDash.webm"></source> 
-#</video>
+<video src="RestaurantInspectionAnalysisPlotlyDash.mp4" width="320" height="200" controls preload></video>
 
  
