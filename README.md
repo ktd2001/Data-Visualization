@@ -14,11 +14,3 @@ The analysis revealed restaurants with a high risk category could also score hig
 
 **Application link:**
 http://192.81.212.201:1872/
-
-#**Video:**
-
-#<video poster="RestaurantInspectionAnalysisPlotlyDash.jpg" width="618" height="347" controls preload></video>
-
-<video src="RestaurantInspectionAnalysisPlotlyDash.mp4" width="320" height="200" controls preload></video>
-
- 
