@@ -13,4 +13,6 @@ The analysis revealed restaurants with a high risk category could also score hig
 <img src="Restaurant.png" width="400">
 
 **Application link:**
+Hosted on Digital Ocean
 http://192.81.212.201:1872/
+
